@@ -1,4 +1,5 @@
 # why-dbms-batuhanesin
 why-dbms-batuhanesin created by GitHub Classroom
 hi, ı am batu
-https://cdn.ntvspor.net/c340678d41bf4f43ab96c96cc2416fe7.jpg?&mode=crop&w=940&h=626.6666666666666
+![image](https://user-images.githubusercontent.com/92017604/136165253-21db8c68-0896-469d-8c19-eb1e51d7d131.png)
+
